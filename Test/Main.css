@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    Margin: 0 auto;
+}
+#about-me{
+    color:white;
+    text-align: center;
+}
+
+.intro{
+    display: inline-block;
+    height: auto;
+    max-height: 500px;
+}
+img.intro{
+    width: 50%;
+    max-height: 40%
+}
+p.intro{
+    color: olive;
+    width: 40%;
+    overflow:  scroll;
+    Margin: 50px 0px 5px 10px;
+    height: inherit;
+   
+}
+nav{
+    background-color: #466995;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+ul {
+  padding: 5 20px;
+  text-align: center;
+}
+
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 180px;
+    padding:20px 10px 10px 10px;
+}
+nav li:hover{
+    Background-color: Cornflowerblue;
+}
