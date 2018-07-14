@@ -21,9 +21,8 @@ img.intro{
     max-height: 40%
 }
 p.intro{
-    color: olive;
+    color: skyblue;
     width: 40%;
-    overflow:  scroll;
     Margin: 50px 0px 5px 10px;
     height: inherit;
    
