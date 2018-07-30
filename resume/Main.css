@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: black;
+    background-color: #136b62;
     Margin: 0 auto;
 }
 #about-me{
@@ -25,10 +25,11 @@ p.intro{
     width: 40%;
     Margin: 50px 0px 5px 10px;
     height: inherit;
+    text-align: justified;
    
 }
 nav{
-    background-color: #466995;
+    background-color: #6b2613;
     width: 100%;
     text-align: center;
     height: auto;
