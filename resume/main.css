@@ -55,5 +55,23 @@ body{
     top: 8%;
     font-size: 60px;
 }
-
+}
+.about-me{
+    position: absolute;
+    Left: 5%;
+    top: 8%;
+    font-size: 60px;
+}
+.company {
+    color: #cf6436;
+    text-align: center;
+}
+.company em{
+    color: #cfb036;
+}
+.mycareer{
+    text-align: center;
+    font-size: 43px;
+    color: #cfb036;
+}
 
